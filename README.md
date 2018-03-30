@@ -116,16 +116,16 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 ## Economics
 - [ ] [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
-  - [ ] [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium)
+  - [x] [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium)
   - [ ] [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_%28game_theory%29)
 - [ ] [Macroeconomics](https://en.wikipedia.org/wiki/Macroeconomics)
   - [ ] [Monetary policy](https://en.wikipedia.org/wiki/Monetary_policy)
-  - [ ] [Inflation](https://en.wikipedia.org/wiki/Inflation)
-  - [ ] [Deflation](https://en.wikipedia.org/wiki/Deflation)
+  - [x] [Inflation](https://en.wikipedia.org/wiki/Inflation)
+  - [x] [Deflation](https://en.wikipedia.org/wiki/Deflation)
   - [ ] [Velocity of Money](https://en.wikipedia.org/wiki/Velocity_of_money)
 - [ ] [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics)
-  - [ ] [Supply and Demand Curves](https://en.wikipedia.org/wiki/Supply_and_demand)
-  - [ ] [Opportunity Cost](https://en.wikipedia.org/wiki/Opportunity_cost)
+  - [x] [Supply and Demand Curves](https://en.wikipedia.org/wiki/Supply_and_demand)
+  - [x] [Opportunity Cost](https://en.wikipedia.org/wiki/Opportunity_cost)
   - [ ] [Auction Theory](https://www.youtube.com/watch?v=4kWuxfVbIaU)
 
 # Bitcoin
@@ -168,7 +168,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [x] [Ethereum in 25 Minutes](https://youtu.be/mCzyDLanA7s)
 - [x] [Intro to Crypto-economics](https://www.youtube.com/watch?v=sbd4xe9OHJg)
 - [x] [Ethereum's Account Model](https://ethereum.stackexchange.com/questions/326/what-are-the-pros-and-cons-of-ethereum-balances-vs-utxos)
-- [ ] [Industry Support](https://entethalliance.org/members/)
+- [x] [Industry Support](https://entethalliance.org/members/)
 - [ ] [The Ethreum Community Forum](https://forum.ethereum.org/)
 - [ ] [ERC-20](https://medium.com/@james_3093/ethereum-erc20-tokens-explained-9f7f304055df)
 - [ ] [The Anatomy of ERC20](https://medium.com/blockchannel/the-anatomy-of-erc20-c9e5c5ff1d02)
